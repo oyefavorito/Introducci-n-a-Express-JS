@@ -1,0 +1,16 @@
+{
+  "name": "introduccion-a-express-js-yerko-rojas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "YerkoRojas",
+  "license": "ISC",
+  "description": "Segundo desafio - Express",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
